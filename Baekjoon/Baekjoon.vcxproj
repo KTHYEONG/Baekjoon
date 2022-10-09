@@ -139,21 +139,54 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\1008번.c" />
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\10171번.c" />
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\10926번.c" />
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\10950번.c" />
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\11021번.c" />
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\1330번.c" />
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\14681번.c" />
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\2252번.c" />
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\2480번.c" />
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\25304번.c" />
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\2739번.c" />
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\2753번.c" />
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\2884번.c" />
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\8393번.c" />
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\9498번.c" />
+    <ClCompile Include="1008번.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="10171번.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="10926번.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="10950번.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="11021번.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="11022번.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="1330번.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="14681번.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="2252번.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="2480번.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="25304번.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="2739번.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="2753번.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="2884번.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="8393번.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="9498번.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

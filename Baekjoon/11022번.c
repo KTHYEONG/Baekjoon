@@ -1,4 +1,4 @@
-#include <stdio.h> // A + B - 7
+#include <stdio.h> // A + B - 8
 
 int main()
 {
@@ -8,7 +8,7 @@ int main()
 	for (int i = 0; i < T; i++)
 	{
 		scanf("%d %d", &A, &B);
-		printf("Case #%d: %d\n", i + 1, A + B);
+		printf("Case #%d: %d + %d = %d\n", i + 1, A, B, A + B);
 	}
 
 	return 0;

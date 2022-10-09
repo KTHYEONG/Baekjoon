@@ -15,49 +15,52 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\25304번.c">
+    <ClCompile Include="25304번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\1008번.c">
+    <ClCompile Include="1008번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\1330번.c">
+    <ClCompile Include="1330번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\2252번.c">
+    <ClCompile Include="2252번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\2480번.c">
+    <ClCompile Include="2480번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\2739번.c">
+    <ClCompile Include="2739번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\2753번.c">
+    <ClCompile Include="2753번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\2884번.c">
+    <ClCompile Include="2884번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\8393번.c">
+    <ClCompile Include="8393번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\9498번.c">
+    <ClCompile Include="9498번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\10171번.c">
+    <ClCompile Include="10171번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\10926번.c">
+    <ClCompile Include="10926번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\10950번.c">
+    <ClCompile Include="10950번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\11021번.c">
+    <ClCompile Include="11021번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\OneDrive\바탕 화면\14681번.c">
+    <ClCompile Include="14681번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11022번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
