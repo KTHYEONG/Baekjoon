@@ -72,5 +72,14 @@
     <ClCompile Include="10871번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10952번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10951번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1110번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
