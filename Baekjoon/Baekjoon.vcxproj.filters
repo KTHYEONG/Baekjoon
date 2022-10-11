@@ -81,5 +81,23 @@
     <ClCompile Include="1110번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10818번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2562번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3052번re.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1546번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8956번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4344번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
