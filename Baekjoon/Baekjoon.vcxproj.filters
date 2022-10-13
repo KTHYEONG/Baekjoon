@@ -99,5 +99,29 @@
     <ClCompile Include="4344번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="15596번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11654번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11720번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10809번re.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2675번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1157번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1152번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2908번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
