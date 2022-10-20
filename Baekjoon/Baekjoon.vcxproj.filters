@@ -168,5 +168,38 @@
     <ClCompile Include="10757번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10872번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10870번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4948번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9020번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="25305번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2108번re.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1427번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11650번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2751번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10989번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10250번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
