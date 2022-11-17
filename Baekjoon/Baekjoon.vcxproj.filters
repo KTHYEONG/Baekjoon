@@ -330,6 +330,36 @@
     <ClCompile Include="1676번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2004번re.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1935번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10808번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10820번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2743번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11655번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1918번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9613번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10824번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11656번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sort.h">
