@@ -39,14 +39,17 @@ int main()
 	return 0;
 }*/
 
-#include <stdio.h>
-
 int gcd(int a, int b)
 {
-	if (b == 0)
-		return a;
-	else
-		return gcd(b, a % b);
+	int c;
+	while (b != 0)
+	{
+		c = a % b;
+		a = b;
+		b = c;
+	}
+
+	return a;
 }
 
 
@@ -55,25 +58,22 @@ int main()
 	int t;
 	scanf("%d", &t);
 
-	int arr[100];
-	long long int sum = 0;
+	int n, arr[101];
 	for (int i = 0; i < t; i++)
 	{
-		int n;
 		scanf("%d", &n);
-
 		for (int j = 0; j < n; j++)
 			scanf("%d", &arr[j]);
 
-		for (int i = 0; i < n - 1; i++)
+		long long int sum = 0;
+		for (int j = 0; j < n - 1; j++)
 		{
-			for (int j = i + 1; j < n; j++)
+			for (int k = j + 1; k < n; k++)
 			{
-				sum += gcd(arr[i], arr[j]);
+				sum += gcd(arr[j], arr[k]);
 			}
 		}
 		printf("%lld\n", sum);
-		sum = 0;
 	}
 
 	return 0;

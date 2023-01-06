@@ -3,7 +3,7 @@
 int gcd(int a, int b)
 {
 	int c;
-	while (b)
+	while (b != 0)
 	{ 
 		c = a % b;
 		a = b;

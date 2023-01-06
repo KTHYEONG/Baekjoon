@@ -9,7 +9,7 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
-    <Filter Include="리소스 파일">
+    <Filter Include="소스 파일\리소스 파일">
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
@@ -358,6 +358,129 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="11656번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17087번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1373번re.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1212번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2089번re.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17013번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1463번re.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11726번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11727번re.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11052번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16194번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15990번re.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10844번re.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2193번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11053번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15988번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14002번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1699번re.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2309번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3085번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0000.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1912번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9095번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1264번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1085번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1009번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1247번re.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1032번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1010번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1015번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1476번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1748번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10972번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10973번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11723번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1182번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15649번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15650번re.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10974번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15651번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1260번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11724번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
