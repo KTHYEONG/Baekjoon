@@ -1,4 +1,4 @@
-## 공 
+## 공 바꾸기
 n, m = map(int, input().split())
 
 arr = []
