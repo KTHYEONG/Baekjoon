@@ -651,7 +651,10 @@
     <ClCompile Include="sort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="temp.c">
+    <ClCompile Include="2003.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2589.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
