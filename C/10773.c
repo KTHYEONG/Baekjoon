@@ -7,6 +7,14 @@ typedef struct
 	int ptr;
 }STACK;
 
+int is_empty(STACK* s)
+{
+	if (s->ptr <= 0)
+		return 1;
+	else
+		return 0;
+}
+
 void push(STACK* s, int num, int k, int *sum)
 {
 	if (s->ptr <= k)
@@ -16,9 +24,9 @@ void push(STACK* s, int num, int k, int *sum)
 	}
 }
 
-void pop(STACK* s, int num, int *sum)
+void pop(STACK* s, int *sum)
 {
-	if (s->ptr > 0)
+	if (!is_empty(s))
 	{
 		*sum -= s->stk[--s->ptr];
 	}
@@ -31,7 +39,7 @@ int main()
 	scanf("%d", &k);
 
 	STACK s;
-	s.stk = malloc(k * sizeof(STACK));
+	s.stk = malloc(k * sizeof(int));
 	s.ptr = 0;
 
 	int num, sum = 0;
@@ -41,7 +49,7 @@ int main()
 		if (num)
 			push(&s, num, k, &sum);
 		else
-			pop(&s, num, &sum);
+			pop(&s, &sum);
 	}
 
 	printf("%d", sum);
