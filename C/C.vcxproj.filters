@@ -657,6 +657,15 @@
     <ClCompile Include="2589.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1835.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11051.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11659.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sort.h">
