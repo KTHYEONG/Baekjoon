@@ -672,6 +672,12 @@
     <ClCompile Include="24264.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="3009.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15894.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sort.h">
