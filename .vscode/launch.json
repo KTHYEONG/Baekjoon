@@ -1,51 +1,58 @@
 {
-    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
-    // 기존 특성에 대한 설명을 보려면 가리킵니다.
-    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "$10811",
-            "request": "launch",
-            "mainClass": "$10811",
-            "projectName": "Baekjoon_489dc1b7"
-        },
-        {
-            "type": "java",
-            "name": "$2562",
-            "request": "launch",
-            "mainClass": "$2562",
-            "projectName": "Baekjoon_489dc1b7"
-        },
-        {
-            "type": "java",
-            "name": "test",
-            "request": "launch",
-            "mainClass": "test",
-            "projectName": "Baekjoon_489dc1b7"
-        },
-        {
-            "type": "java",
-            "name": "App",
-            "request": "launch",
-            "mainClass": "App",
-            "projectName": ""
-        },
-        {
-            "type": "java",
-            "name": "App",
-            "request": "launch",
-            "mainClass": "App",
-            "projectName": "Baekjoon_d514ca01"
-        },
-        {
-            "name": "Python: 현재 파일",
-            "type": "python",
-            "request": "launch",
-            "program": "${file}",
-            "console": "integratedTerminal",
-            "justMyCode": true
-        }
-    ]
+  // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+  // 기존 특성에 대한 설명을 보려면 가리킵니다.
+  // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "_10811",
+      "request": "launch",
+      "mainClass": "_10811",
+      "projectName": "Baekjoon_489dc1b7"
+    },
+    {
+      "type": "java",
+      "name": "$10811",
+      "request": "launch",
+      "mainClass": "$10811",
+      "projectName": "Baekjoon_489dc1b7"
+    },
+    {
+      "type": "java",
+      "name": "$2562",
+      "request": "launch",
+      "mainClass": "$2562",
+      "projectName": "Baekjoon_489dc1b7"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "Baekjoon_489dc1b7"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": ""
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "Baekjoon_d514ca01"
+    },
+    {
+      "name": "Python: 현재 파일",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
 }
