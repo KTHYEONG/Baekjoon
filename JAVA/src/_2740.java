@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 /*
 행렬을 Matrix라는 Class를 생성하여 표현 후 곱셈을 처리함
