@@ -20,6 +20,7 @@ public class _2015 {
         }
 
         // arr[i] - arr[j] = k --> arr[i] - k가 arr[j]인 것을 이용
+        // 이해 더 필요
         long ans = 0;
         Map<Integer, Integer> table = new HashMap<>();
         table.put(0, 1);
@@ -27,7 +28,7 @@ public class _2015 {
             ans += table.getOrDefault(arr[i] - K, 0);
             table.put(arr[i], table.getOrDefault(arr[i], 0) + 1);
         }
-
+        
         System.out.println(ans);
     }
 }
