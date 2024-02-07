@@ -1,11 +1,51 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 
 // 개똥벌레
 public class _3020 {
     public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+        String[] input = br.readLine().split(" ");
+        int N = Integer.parseInt(input[0]);
+        int H = Integer.parseInt(input[1]);
+
+        int[] stalagmite = new int[H + 2]; // 석순
+        int[] stalactite = new int[H + 2]; // 종유석
+        for (int i = 0; i < N / 2; i++) {
+            int a = Integer.parseInt(br.readLine());
+            stalagmite[a]++;
+
+            int b = H - Integer.parseInt(br.readLine()) + 1;
+            stalactite[b]++;
+        }
+
+        for (int i = 1; i <= H; i++) {
+            stalagmite[i] += stalagmite[i - 1];
+        }
+        for (int i = H; i >= 1; i--) {
+            stalactite[i] += stalactite[i + 1];
+        }
+
+        int min = N + 1;
+        int cnt = 0;
+        for (int i = 1; i <= H; i++) {
+            int goal = (stalagmite[H] - stalagmite[i - 1]) + (stalactite[1] - stalactite[i + 1]);
+            if (goal < min) {
+                min = goal;
+                cnt = 1;
+            } else if (goal == min) {
+                cnt++;
+            }
+        }
+
+        System.out.println(min + " " + cnt);
+    }
+}
+
+/* 이진탐색
+public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         String[] input = br.readLine().split(" ");
@@ -52,4 +92,4 @@ public class _3020 {
 
         return arr.length - right;
     }
-}
+ */
