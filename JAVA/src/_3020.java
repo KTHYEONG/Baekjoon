@@ -21,6 +21,7 @@ public class _3020 {
             stalactite[b]++;
         }
 
+        // 부분합 - dp
         for (int i = 1; i <= H; i++) {
             stalagmite[i] += stalagmite[i - 1];
         }
