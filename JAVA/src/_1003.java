@@ -23,5 +23,6 @@ public class _1003 {
             int N = Integer.parseInt(br.readLine());
             System.out.println(fibo0[N] + " " + fibo1[N]);
         }
+
     }
 }
